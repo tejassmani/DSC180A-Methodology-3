@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-
-Tejas Mani
+Willem de Haan
